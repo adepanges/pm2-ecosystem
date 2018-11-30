@@ -7,3 +7,6 @@
 [submodule "uranus-sso"]
 	path = uranus-sso
 	url = https://github.com/adepanges/uranus-sso.git
+[submodule "uranus-crm"]
+	path = uranus-crm
+	url = https://github.com/adepanges/uranus-crm.git
