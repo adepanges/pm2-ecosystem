@@ -26,3 +26,14 @@ build/Release
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
+
+*
+zzz-logs/*
+
+!.gitignore
+!ecosystem.config.js
+!zzz-logs/
+!LICENSE.md
+!package-lock.json
+!package.json
+!README.md

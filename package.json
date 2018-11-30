@@ -1,0 +1,11 @@
+{
+  "name": "pm2-ecosystem",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["pm2", "ecosystem", "pm2-ecosystem", "cluster", "pm2-cluster"],
+  "author": "Ade Pangestu (adepanges@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0"
+  }
+}
