@@ -1,0 +1,9 @@
+[submodule "uranus-panel"]
+	path = uranus-panel
+	url = https://github.com/adepanges/uranus-panel.git
+[submodule "uranus-blog"]
+	path = uranus-blog
+	url = https://github.com/adepanges/uranus-blog.git
+[submodule "uranus-sso"]
+	path = uranus-sso
+	url = https://github.com/adepanges/uranus-sso.git
