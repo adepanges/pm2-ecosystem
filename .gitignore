@@ -28,11 +28,9 @@ build/Release
 node_modules
 
 *
-zzz-logs/*
 
 !.gitignore
 !ecosystem.config.js
-!zzz-logs/
 !LICENSE.md
 !package-lock.json
 !package.json
